@@ -1,6 +1,6 @@
 # Maryia Sidarenka
 ![my photo](I2.jpg)
----
+
 ## Junior frontend developer
 ---
 
